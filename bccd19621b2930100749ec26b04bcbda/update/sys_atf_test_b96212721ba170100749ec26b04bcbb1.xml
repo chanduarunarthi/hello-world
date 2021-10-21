@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>PRB0000106</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>CS5549272</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-28 12:49:20</sys_created_on>
+        <sys_id>b96212721ba170100749ec26b04bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS5549272</sys_name>
+        <sys_package display_value="how" source="x_snc_how">bccd19621b2930100749ec26b04bcbda</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="how">bccd19621b2930100749ec26b04bcbda</sys_scope>
+        <sys_update_name>sys_atf_test_b96212721ba170100749ec26b04bcbb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-28 12:49:20</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=b96212721ba170100749ec26b04bcbb1"/>
+</record_update>
